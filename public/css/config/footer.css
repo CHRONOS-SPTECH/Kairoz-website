@@ -1,0 +1,131 @@
+.main-footer {
+    background-color: #0d1b31;
+    color: #ffffff;
+    padding: 50px 0 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+
+    .footer-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr;
+        gap: 60px;
+        margin-bottom: 20px;
+    }
+
+    .footer-brand {
+        img{
+            height: 100px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #a0aec0;
+            line-height: 1.6;
+            max-width: 350px;
+            margin-bottom: 25px;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 15px;
+
+            a {
+                color: #fff;
+                font-size: 20px;
+                transition: 0.3s;
+
+                &:hover {
+                    color: #00DAC1;
+                    transform: translateY(-3px);
+                }
+            }
+        }
+    }
+
+    .footer-nav,
+    .footer-contact {
+        h4 {
+            font-size: 18px;
+            margin-bottom: 25px;
+            position: relative;
+
+            &::after {
+                content: '';
+                position: absolute;
+                left: 0;
+                bottom: -8px;
+                width: 30px;
+                height: 2px;
+                background: #00DAC1;
+            }
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+
+            li {
+                margin-bottom: 12px;
+
+                a {
+                    color: #a0aec0;
+                    text-decoration: none;
+                    transition: 0.3s;
+
+                    &:hover {
+                        color: #fff;
+                        padding-left: 5px;
+                    }
+                }
+            }
+        }
+
+        p {
+            color: #a0aec0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+
+            i {
+                color: #00DAC1;
+            }
+        }
+    }
+
+    .footer-bottom {
+        text-align: center;
+        padding-top: 30px;
+        border-top: 1px solid rgba(255, 255, 255, 0.05);
+
+        p {
+            color: #718096;
+            font-size: 14px;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .main-footer .footer-container {
+        grid-template-columns: 1fr;
+        text-align: center;
+        gap: 40px;
+
+        .footer-brand p,
+        .footer-contact p {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .social-links {
+            justify-content: center;
+        }
+
+        h4::after {
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    }
+}
