@@ -1,13 +1,13 @@
-# ⚡ Kairoz: Engenharia com Propósito
+# Kairoz: Engenharia com Propósito
 
 <p align="center">
-  <img src="./public/assets/images/img-banner-programmer.avif" alt="Kairoz Banner" width="800px">
+  <img src="./public/assets/logotipos/logo-kairoz-dark-mode.png" alt="Logo KairozTech" width="600px">
 </p>
 
-## 🕒 O Conceito Kairoz
+## O Conceito Kairoz
 No grego antigo, *Kairós* representa o momento oportuno, o tempo qualitativo. A **Kairoz** nasceu para entregar tecnologia exatamente nesse ponto: onde a oportunidade de mercado encontra a maturidade técnica.
 
-## 🚀 O que fazemos
+## O que fazemos
 Projetamos e desenvolvemos ecossistemas digitais de alta complexidade. Não apenas escrevemos código; construímos ativos tecnológicos robustos que garantem a sustentabilidade e a escalabilidade do seu negócio.
 
 ### 💎 Nossos Pilares
@@ -18,7 +18,7 @@ Projetamos e desenvolvemos ecossistemas digitais de alta complexidade. Não apen
 
 ---
 
-## 🛠 Metodologia de Trabalho
+## Metodologia de Trabalho
 Nosso fluxo foi desenhado para eliminar gargalos e garantir previsibilidade total:
 
 1.  **Imersão & Diagnóstico:** Mapeamos profundamente as dores da operação antes da primeira linha de código.
@@ -26,7 +26,7 @@ Nosso fluxo foi desenhado para eliminar gargalos e garantir previsibilidade tota
 3.  **QA de Alta Fidelidade:** Protocolos rigorosos de testes que asseguram performance e estabilidade.
 4.  **Escalabilidade Contínua:** Suporte e monitoramento focado no crescimento acelerado da base de usuários.
 
-## 🌐 Stack Tecnológica
+## Stack Tecnológica
 Dominamos as ferramentas mais modernas do mercado para entregar performance nativa e baixa latência:
 * **Backend:** Java (Spring Boot), Python, Node.js.
 * **Cloud & Dados:** Amazon Web Services (AWS) e MySQL.
@@ -34,14 +34,14 @@ Dominamos as ferramentas mais modernas do mercado para entregar performance nati
 
 ---
 
-## 📈 Parcerias que Geram Valor
+## Parcerias que Geram Valor
 A Kairoz atua como o braço tecnológico de empresas que buscam transformar desafios operacionais em diferenciais competitivos. 
 
 > "Nossa missão é otimizar a gestão do tempo e do conhecimento, transformando dados em ferramentas que priorizam o humano."
 
 ---
 
-## 📩 Vamos Conversar?
+## Vamos Conversar?
 Estamos prontos para ouvir sobre seu projeto e ajudar sua empresa a alcançar o próximo nível.
 
 * **WhatsApp:** [Link de Contato]
